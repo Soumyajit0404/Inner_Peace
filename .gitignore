@@ -1,0 +1,39 @@
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Database files
+*.db
+
+# Embeddings and model files
+*.npy
+*.pt
+*.h5
+
+# Chunks and generated data
+*.json
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+Back/.venv/
+Back/env/
+
+Front/node_modules/
+Front/.vscode
